@@ -1,2 +1,20 @@
 # product-intel-scraper
-Here's a complete advanced web scraping project that allows you to apply all advanced scraping techniques—starting simple and progressing to highly complex topics, including bypassing bot protections, pagination, JavaScript-rendered content, CAPTCHA, concurrency, data cleaning, storing in databases, and APIs.
+# 🕷️ Product Intelligence Scraper
+
+This project is a multi-phase web scraping engine designed to teach and apply **advanced web scraping techniques**. It starts with basic scraping and evolves into a modular, asynchronous, anti-bot capable engine, supporting real-time updates and optional dashboards.
+
+## 🔰 Phase 1: Basic Scraping
+
+We start by scraping data from a simple, static website: [books.toscrape.com](http://books.toscrape.com).
+
+### ✅ Technologies Used
+
+- Python 3
+- requests
+- BeautifulSoup
+- pandas
+
+### 📦 To install
+
+```bash
+pip install -r requirements.txt
